@@ -22,4 +22,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
