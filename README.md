@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,12 +40,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
