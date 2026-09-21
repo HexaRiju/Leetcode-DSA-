@@ -93,4 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
