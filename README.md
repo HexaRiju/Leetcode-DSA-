@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
