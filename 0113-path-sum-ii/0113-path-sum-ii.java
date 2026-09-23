@@ -25,11 +25,8 @@ class Solution {
         sum += root.val;
         list.add(root.val);
         if(root.left == null && root.right == null){
-            if(sum == targetSum){
+            if(sum == targetSum)
                 ans.add(new ArrayList<>(list));
-                list.remove(list.size() - 1);
-                return;
-            }
             list.remove(list.size() - 1);
             return;
         }
