@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,8 +161,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
