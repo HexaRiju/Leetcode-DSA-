@@ -8,7 +8,7 @@ class Solution {
         while(j < s.length()){
             map.put(s.charAt(j), map.getOrDefault(s.charAt(j), 0) + 1);
             while(map.get('a') > 0 && map.get('b') > 0 && map.get('c') > 0){
-                count += s.length() - j;
+                count += s.length() - j;// because , if abc at least come mean after any thing come is also be counted any no. of a, b , c so in that case curr abc + a + ab + abc .. thats why s.length() - j;
                 map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) - 1);
                 i++;
             }
