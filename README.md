@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -173,4 +174,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
