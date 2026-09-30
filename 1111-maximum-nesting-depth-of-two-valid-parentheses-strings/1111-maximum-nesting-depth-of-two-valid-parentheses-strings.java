@@ -1,32 +1,24 @@
-class Pair{
-    char c;
-    int catagory;
-    Pair(int catagory, char c){
-        this.catagory = catagory;
-        this.c = c;
-    }
-}
 class Solution {
     public int[] maxDepthAfterSplit(String seq) {
         int[] res = new int[seq.length()];
         if(seq.length() == 1)
             return res;
         else{
-            int depth = 0;
+            int depth = 1;
             for(int i = 0; i < seq.length(); i++){
                 if(seq.charAt(i) == '('){
                     depth++;
                     if(depth % 2 != 0)
-                        res[i] = 0;
-                    else
                         res[i] = 1;
+                    else
+                        res[i] = 0;
                 }
                 else if(seq.charAt(i) == ')'){
                     depth--;
                     if(depth % 2 != 0)
-                        res[i] = 1;
-                    else
                         res[i] = 0;
+                    else
+                        res[i] = 1;
                 }
             }
             return res;
