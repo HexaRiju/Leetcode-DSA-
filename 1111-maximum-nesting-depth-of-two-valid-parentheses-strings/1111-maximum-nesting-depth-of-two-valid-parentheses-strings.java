@@ -1,3 +1,11 @@
+class Pair{
+    char c;
+    int catagory;
+    Pair(int catagory, char c){
+        this.catagory = catagory;
+        this.c = c;
+    }
+}
 class Solution {
     public int[] maxDepthAfterSplit(String seq) {
         int[] res = new int[seq.length()];
