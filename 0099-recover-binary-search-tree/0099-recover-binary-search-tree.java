@@ -18,7 +18,7 @@ class Solution {
     int wrong = 0;
     public void recoverTree(TreeNode root) {
         swap(root);
-        if(wrong_2_first == null){
+        if(wrong == 1){
             int temp = wrong_1_first.val;
             wrong_1_first.val = wrong_1_second.val;
             wrong_1_second.val = temp;
@@ -44,6 +44,7 @@ class Solution {
             else if(prev.val >= root.val){
                 wrong_2_first = prev;
                 wrong_2_second = root;
+                wrong++;
             }
             prev = root;
         }
