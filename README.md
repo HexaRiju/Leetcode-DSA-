@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0113-path-sum-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0113-path-sum-ii/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -208,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
