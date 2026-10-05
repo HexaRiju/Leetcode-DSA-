@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0143-reorder-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
