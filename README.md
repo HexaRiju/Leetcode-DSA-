@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Linked List
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0143-reorder-list](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0143-reorder-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Hash Table
@@ -220,4 +223,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
