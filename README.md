@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0622-design-circular-queue](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0622-design-circular-queue/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
