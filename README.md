@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0002-add-two-numbers/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3870-count-commas-in-range/) | Easy |
 ## Geometry
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0622-design-circular-queue/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -240,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
