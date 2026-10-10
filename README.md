@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0056-merge-intervals/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0056-merge-intervals/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Divide and Conquer
@@ -257,4 +259,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0622-design-circular-queue/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
