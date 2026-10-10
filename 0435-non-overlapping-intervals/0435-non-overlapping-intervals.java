@@ -5,17 +5,12 @@ class Solution {
         while(j < intervals.length){
             if(intervals[i][1] > intervals[j][0]){
                 count++;
-                if(intervals[i][1] > intervals[j][1]){
+                if(intervals[i][1] > intervals[j][1])
                     i = j;
-                    j++;
-                }
-                else
-                    j++;
             }
-            else{
+            else
                 i = j;
-                j++;
-            }
+            j++;
         }
         return count;
     }
