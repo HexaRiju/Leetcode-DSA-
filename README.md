@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0057-insert-interval/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
