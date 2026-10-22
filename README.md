@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0143-reorder-list](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -282,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2402-meeting-rooms-iii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2402-meeting-rooms-iii/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
