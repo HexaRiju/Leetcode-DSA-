@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,9 +300,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0994-rotting-oranges/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
