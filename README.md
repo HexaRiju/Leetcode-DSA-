@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0994-rotting-oranges/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -323,4 +327,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
