@@ -43,7 +43,7 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.deepToString(res));
+        //System.out.println(Arrays.deepToString(res));
         return res[n - 1][m - 1];
     }
 
