@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0622-design-circular-queue/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0994-rotting-oranges/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0994-rotting-oranges/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Lifting
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Simulation
@@ -312,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
@@ -319,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
@@ -342,5 +349,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
