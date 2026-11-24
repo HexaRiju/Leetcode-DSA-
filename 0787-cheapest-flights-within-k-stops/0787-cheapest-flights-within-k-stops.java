@@ -11,7 +11,7 @@ class Solution {
                 int s = j[0];
                 int d = j[1];
                 int w = j[2];
-                if (temp[s] != INF && temp[d] > res[s] + w)
+                if (res[s] != INF && temp[d] > res[s] + w)
                     temp[d] = res[s] + w;
             }
             for(int j = 0; j < res.length; j++)
