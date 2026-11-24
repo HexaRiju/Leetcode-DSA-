@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0226-invert-binary-tree/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0127-word-ladder/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
+| [0127-word-ladder](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0127-word-ladder/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -361,4 +364,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0778-swim-in-rising-water/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
