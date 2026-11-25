@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0002-add-two-numbers/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0836-rectangle-overlap/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3870-count-commas-in-range](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3870-count-commas-in-range/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +371,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0127-word-ladder/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
