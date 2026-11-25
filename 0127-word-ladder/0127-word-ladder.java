@@ -25,13 +25,13 @@ class Solution {
             queue.remove();
             map.remove(s);
             char[] c = s.toCharArray();
-            for(int i = 0; i < s.length(); i++){
+            for(int i = 0; i < s.length(); i++){//O(m)
                 char p = c[i];
                 for(int j = 97; j <= 122; j++){
                     char t = (char)j;
                     if(p != t){
                         c[i] = t;
-                        String scr = new String(c);
+                        String scr = new String(c);// O(m)
                         if(map.containsKey(scr))
                             queue.add(new Pair(scr, val + 1));
                     }
@@ -40,5 +40,5 @@ class Solution {
             }
         }
         return 0;
-    }
+    } // T.C = O(m^2 * n)
 }
