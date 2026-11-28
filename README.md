@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0836-rectangle-overlap/) | Easy |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0509-fibonacci-number/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -385,5 +387,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/HexaRiju/Leetcode-DSA-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
